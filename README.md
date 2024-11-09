@@ -1,4 +1,4 @@
-# MedicineReminder
+## MedicineReminder
 This is an IoT-based smart medicine reminder system built with C++ and the ESP32 microcontroller. Designed to help patients adhere to their medication schedules, this device provides visual and auditory alerts, as well as real-time remote monitoring.
 
 ##Features
